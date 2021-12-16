@@ -1,5 +1,5 @@
 # Mini-Wallet-Exercise
-     REST API with Framework FAST API with dummy data
+     REST API Framework FAST API with version ```Python3.8.0```
 ### Clone Repository
 ``` git clone https://github.com/gofurmzq/Mini-Wallet-Exercise.git```
 ### Create log directory if doesn't exist
