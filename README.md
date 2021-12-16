@@ -1,11 +1,11 @@
 # Mini-Wallet-Exercise
      REST API with Framework FAST API with dummy data
 ## Clone Repository
-
+``` git clone https://github.com/gofurmzq/Mini-Wallet-Exercise.git```
 ## Create log directory if doesn't exist
-a. mkdir logs/mini_wallet_api_error.log
-b. mkdir logs/mini_wallet_api_info.log
-c. mkdir logs/mini_wallet_api_warning.log
+- mkdir logs/mini_wallet_api_error.log
+- mkdir logs/mini_wallet_api_info.log
+- mkdir logs/mini_wallet_api_warning.log
 
 ## Create .env file if doesn't exists
 ```nano .env```
