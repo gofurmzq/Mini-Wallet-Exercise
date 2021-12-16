@@ -1,16 +1,16 @@
 # Mini-Wallet-Exercise
      REST API with Framework FAST API with dummy data
-## Clone Repository
+### Clone Repository
 ``` git clone https://github.com/gofurmzq/Mini-Wallet-Exercise.git```
-## Create log directory if doesn't exist
+### Create log directory if doesn't exist
 - mkdir logs/mini_wallet_api_error.log
 - mkdir logs/mini_wallet_api_info.log
 - mkdir logs/mini_wallet_api_warning.log
 
-## Create .env file if doesn't exists
+### Create .env file if doesn't exists
 ```nano .env```
 
-## Rewrite .env file with the following value:
+### Rewrite .env file with the following value:
 
 ```
 DEBUG=True
@@ -24,22 +24,22 @@ ENABLE_APIDOCS=True
 ```
 
 
-## Create virtualenv and activate virtual environment
+### Create virtualenv and activate virtual environment
 ```
 python3.8 -m venv env
 source env/bin/activate
 ```
 
-## Install packages
+### Install packages
 ```pip install -r requirements.txt```
 
-## Run in terminal
+### Run in terminal
 ```uvicorn app:app```
 
-## See the swagger docs in browser :
+### See the swagger docs in browser :
 ```http://127.0.0.1:8000/api/v1/wallet/docs```
 
-### HOW TO TESTING ONE BY ONE THE END POINT :
+## HOW TO TESTING ONE BY ONE THE END POINT :
 
 1. Initialize Account
    ```
