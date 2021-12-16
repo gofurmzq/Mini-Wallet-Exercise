@@ -39,12 +39,7 @@ source env/bin/activate
 ## See the swagger docs in browser :
 ```http://127.0.0.1:8000/api/v1/wallet/docs```
 
-
-## NOTE: 
-### I am still using data dummy for the token for testing the service cause i am not using Database or search engine
-### If you wanna testing others router you may logout first cause each router have different dummy token
-
-## HOW TO TESTING ONE BY ONE THE END POINT :
+### HOW TO TESTING ONE BY ONE THE END POINT :
 
 1. Initialize Account
    ```
@@ -103,3 +98,12 @@ source env/bin/activate
     ```
     eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXBvc2l0Ijp7ImlkIjoiZWEwMjEyZDMtYWJkNi00MDZmLThjNjctODY4ZTgxNGEyNDMzIiwiZGVwb3NpdGVkX2J5IjoiNTI2ZWE4YjItNDI4ZS00MDNiLWI5ZmQtZjEwOTcyZTBkNmZlIiwic3RhdHVzIjoic3VjY2VzcyIsImRlcG9zaXRlZF9hdCI6IjE5OTQtMTEtMDVUMDg6MTU6MzAtMDU6MDAifX0.RSUoj9na2Kke80sIUBug_xSLjtQOS57GmSc5RvYo0EM
     ```
+#### NOTE: 
+```
+- I am still using data dummy for the token for testing the service cause i am not using Database or search engine
+- If you wanna testing others router you may logout first cause each router have different dummy token
+```
+
+## License
+ 
+This code is open source software licensed under the [Apache 2.0 License]("http://www.apache.org/licenses/LICENSE-2.0.html").
