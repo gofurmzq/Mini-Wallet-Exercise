@@ -1,7 +1,8 @@
 # Mini-Wallet-Exercise
      REST API Framework FAST API with version ```Python3.8.0```
+
 ### Install Python 3.8.0
-    #### [How do I install?](https://www.python.org/downloads/release/python-380/)
+#### [How do I install?](https://www.python.org/downloads/release/python-380/)
 ### Clone Repository
 ``` git clone https://github.com/gofurmzq/Mini-Wallet-Exercise.git```
 ### Create log directory if doesn't exist
